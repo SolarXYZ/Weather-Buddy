@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "esosdb": "^3.0.2",
+    "quick.db": "^9.1.7"
+  }
+}
