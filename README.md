@@ -1,6 +1,3 @@
-# Chipy - The Most Advenced Computer Chip Database
+# Weather Buddy
 
-- ``💼`` Daily Chips Added
-- ``🖥`` Easy to use
-- ``💻`` Searching Available
-  
+Best Quality Weather app
