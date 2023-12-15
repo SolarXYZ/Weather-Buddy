@@ -6,7 +6,7 @@ window.addEventListener('load', () => {
     const searchInput = document.getElementById('search-input');
   
     // Replace 'YOUR_API_KEY' with your actual API key
-    const apiKey = '19d8092f0e094ca380d123019231112';
+    const apiKey = '';
     let apiUrl = `https://api.weatherapi.com/v1/current.json?key=${apiKey}&q=New+York`;
   
     function fetchWeatherData(url) {
